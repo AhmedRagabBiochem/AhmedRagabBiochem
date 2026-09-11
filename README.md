@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ahmed Ragab Rabie
 
-<!--
-**AhmedRagabBiochem/AhmedRagabBiochem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biochemistry Graduate | Systematic Review & Meta-Analysis Researcher  
+Computational Biology & Bioinformatics
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gene Expression Analysis
+- Transcriptomics
+- Computational Biology
+- Bioinformatics
+- Biomedical Data Analysis
+- Systematic Reviews & Meta-Analyses
+
+## Skills
+
+Python | R | GEO | Bioconductor | RevMan  
+Rayyan | GitHub | Statistical Analysis
+
+## Research Portfolio
+
+### Gene Expression Analysis
+
+- Breast Cancer
+- Lung Cancer
+- Colorectal Cancer
+- Parkinson's Disease
+
+### Evidence Synthesis
+
+- Systematic Reviews
+- Meta-Analysis
+- Diagnostic Accuracy
+
+## Research Collaboration
+
+Open to research collaborations in bioinformatics,
+computational biology, and biomedical research.
